@@ -1,5 +1,12 @@
 {
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Dracula",
+  "window.zoomLevel": 2,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.minimap.enabled": false,
+  "editor.matchBrackets": "never",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
-  "files.autoSave": "afterDelay",
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "prettier.endOfLine": "auto",
+  "files.autoSave": "afterDelay"
 }
